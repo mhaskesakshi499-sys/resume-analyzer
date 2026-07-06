@@ -1,0 +1,20 @@
+Priya Sharma
+Email: priya@example.com
+Phone: +91 98765 43210
+Professional Summary
+Entry-level data analyst with experience in Python, SQL, Excel, data cleaning, dashboard creation, and business reporting.
+Skills
+Python, SQL, Excel, Power BI, Pandas, NumPy, Data Visualization, Statistics
+Projects
+Sales Dashboard
+- Built an interactive dashboard to track monthly revenue and product performance.
+- Cleaned sales data using Python and prepared visual reports for decision-making.
+Customer Churn Analysis
+- Analyzed customer behavior using Python and Excel.
+- Identified important churn patterns and recommended retention actions.
+Education
+Bachelor of Computer Applications
+Experience
+Data Analyst Intern
+- Prepared weekly reports using Excel and SQL.
+- Helped automate manual reporting tasks using Python.
